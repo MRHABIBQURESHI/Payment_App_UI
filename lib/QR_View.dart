@@ -4,6 +4,7 @@ import 'package:project/Colors/Color.dart';
 class qrcodepage extends StatefulWidget {
   const qrcodepage({super.key});
 
+
   @override
   State<qrcodepage> createState() => _qrcodepageState();
 }
